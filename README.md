@@ -8,6 +8,7 @@ Sou uma desenvolvedora de software com experiência em pesquisa e desenvolviment
 Minha atuação envolve o desenvolvimento de soluções tecnológicas aplicadas a problemas reais, utilizando metodologias ágeis e técnicas avançadas de aprendizado de máquina. Tenho interesse em inovação, ciência de dados e sistemas inteligentes.
 
 ## 💻 Competências
+- SQL
 - Python
 - Metodologias Ágeis
 - Redes Neurais Convolucionais (CNN)
