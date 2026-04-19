@@ -1,26 +1,67 @@
 # Olá, eu sou a Wilsiman 👋
 
-Agradeço por visitar meu perfil! Aqui, você encontrará projetos acadêmicos, pesquisas e desafios tecnológicos nos quais estive envolvida. Meu objetivo é contribuir para a inovação por meio do desenvolvimento de soluções tecnológicas e científicas.
+Obrigado por visitar meu perfil! Aqui você encontrará projetos de pesquisa, desenvolvimento de _software_ e aplicações em Inteligência Artificial voltadas à resolução de problemas reais.
 
-## 👩‍💻 Sobre mim
-Sou uma desenvolvedora de software com experiência em pesquisa e desenvolvimento na área de Inteligência Artificial e Visão Computacional. Atualmente, sou graduanda em Sistemas de Informação no Instituto Federal do Espírito Santo (IFES), _campus_ Serra, e técnica em Informática para Internet pela mesma instituição. 
+---
 
-Minha atuação envolve o desenvolvimento de soluções tecnológicas aplicadas a problemas reais, utilizando metodologias ágeis e técnicas avançadas de aprendizado de máquina. Tenho interesse em inovação, ciência de dados e sistemas inteligentes.
+## 🧠 Sobre mim
 
-## 💻 Competências
-- SQL
+Sou graduanda em **Matemática Aplicada e Computacional na UNICAMP**, com experiência em **Inteligência Artificial, _Machine Learning_** e **Visão Computacional**.
+
+Atuo no desenvolvimento de soluções baseadas em dados, com foco em aplicações práticas, incluindo:
+- Classificação de imagens
+- Sistemas de recomendação
+- Automação com LLMs
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+**Tecnologias**
 - Python
-- Metodologias Ágeis
-- Redes Neurais Convolucionais (CNN)
-- Inteligência Artificial e Machine Learning
-- Desenvolvimento de Sistemas Inteligentes
-- Visão Computacional e Processamento de Imagens
+- SQL
+- Golang
+- LLMs
 
-## 📩 Contato
-Estou sempre aberta a novas oportunidades de colaboração e troca de conhecimento. Caso queira discutir ideias, trabalhar em projetos inovadores ou apenas conversar sobre tecnologia, entre em contato!
+**Inteligência Artificial & Machine Learning**
+- Visão Computacional
+- Machine Learning
+- Deep Learning
+- CNNs
+- NLP
+
+**Frameworks e Ferramentas**
+- TensorFlow
+- PyTorch
+- Keras
+- Scikit-learn
+- YOLO
+- RAG
+- Git
+- Docker
+- Flask
+
+---
+
+## 🔬 Projetos em destaque
+
+- **MiteHunter**  
+  Sistema de recomendação baseado em IA para manejo de pragas em culturas agrícolas, utilizando Visão Computacional e _Machine Learning_.
+
+- **Sistema de Detecção de Câncer de Mama**  
+  Aplicação de _Deep Learning_ para classificação de imagens médicas e apoio ao pré-diagnóstico.
+
+- **Pink Pepper Qualifier**  
+  Classificação de qualidade de frutos com Visão Computacional e Redes Neurais Convolucionais.
+
+---
+
+## 📫 Contato
+
+Estou aberta a oportunidades, colaborações e discussões sobre tecnologia, IA e ciência de dados.
 
 <div>
-  <a href = "mailto:wilsiman.evangelista.ifes@gmail.com" target="_blank">
+  <a href="mailto:wilsimanevangelista@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/wilsiman-evangelista" target="_blank">
